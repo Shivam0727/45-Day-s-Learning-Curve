@@ -1243,4 +1243,4 @@ A obj = new B(); System.out.println(obj.x); // 1
 
 ---
 
-That's Day 1 fully locked in. Solid foundation — everything from here (Collections, Multithreading, Streams, Spring) builds directly on top of this. Let me know when you want **Day 2**, or if you want to attempt the coding problems first and have me review your solutions.
+That's Day 1 fully locked in. Solid foundation — everything from here (Collections, Multithreading, Streams, Spring) builds directly on top of this.
